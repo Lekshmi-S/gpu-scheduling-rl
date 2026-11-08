@@ -1,0 +1,15 @@
+Core numerical and data processing
+
+numpy pandas
+
+Deep learning
+
+torch
+
+Visualization and analysis
+
+matplotlib seaborn scikit-learn
+
+Notebook environment
+
+jupyter ipykernel tqdm
